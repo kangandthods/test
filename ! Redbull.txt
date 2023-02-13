@@ -1,10 +1,1 @@
-[{"by": "kangandthods", "quote": "!faucet 0xb5cdbf0dacbae3803c2860b6206f0690aaf5bd55"}
-{"by": "kangandthods", "quote": "!faucet 0xc3ac1cde5b2cb4eee8f0f47f02bd028d4e61fa4c"}
-{"by": "kangandthods", "quote": "!faucet 0x0483df02749eb9619bc63eea9e23f6a79182612b"}
-{"by": "kangandthods", "quote": "!faucet 0x067fb70bd2aecd058513250603391deec7ac5b77"}
-{"by": "kangandthods", "quote": "!faucet 0x6ca851d4f7edcbfc27fd8e7c69c29b29a29c02b6"}
-{"by": "kangandthods", "quote": "!faucet 0xe15f27c6c8a47b221f9e47701aceeba314c5f7c9"}
-{"by": "kangandthods", "quote": "!faucet 0xaedab97dc00f9f512dff863124d9938cc1e3297b"}
-{"by": "kangandthods", "quote": "!faucet 0x5486ca98952976879b4072fec4f352b76fbcc14f"}
-{"by": "kangandthods", "quote": "!faucet 0xd43b45e0a14c1e2aac28213317719a0c2c37ef59"}
-{"by": "kangandthods", "quote": "!faucet 0x2f2932b9e402a3d9aaf21734671a7091ecaa3c4b"}]
+[{"by": "kangandthods", "quote": "!faucet 0xb5cdbf0dacbae3803c2860b6206f0690aaf5bd55"}]
